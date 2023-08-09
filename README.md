@@ -7,4 +7,4 @@ Analysis of Pizza Store Data. KPI tracking to find trends and insight about the 
 - Excel
 - Power BI
 - Power Query
-
+- Microsoft SQL Server
